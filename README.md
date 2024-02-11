@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMV0027
+- 👋 Hi, I’m Arunmozhi varman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on ...
