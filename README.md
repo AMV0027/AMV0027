@@ -1,4 +1,4 @@
-<h1>Arunmozhi varman<h1>
+#Arunmozhi varman
 🌏 I’m a Full stack developer.<br>🖥️ I’m love to create Ai applications.<br>📚 I’m currently learning about Ai model development.<br>💬 Ask me about MERN & Prompt engineering.<br>⚡ Fun fact. I'm an athlete + coder + entrepreneur.
 
 
