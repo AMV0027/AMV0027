@@ -1,4 +1,4 @@
-# Arunmozhi Varman
+## Arunmozhi Varman
 🌏 I’m a Full stack developer.<br>
 🖥️ I love to create AI applications.<br>
 📚 Currently learning about AI model development.<br>
@@ -73,7 +73,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AMV0027&theme=monokai&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMV0027&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspired Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
