@@ -3,7 +3,7 @@
 🖥️ I love to create AI applications.<br>
 📚 Currently learning about AI model development.<br>
 💬 Ask me about MERN & Prompt engineering.<br>
-⚡ Fun fact: I'm an athlete + coder + entrepreneur.
+⚡ Fun fact: I'm an athlete + coder + entrepreneur.<br>
 [![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
 ---
 
