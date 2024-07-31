@@ -1,5 +1,4 @@
-## Arunmozhi Varman
-[![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
+## Arunmozhi Varman [![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
 🌏 I’m a Full stack developer.<br>
 🖥️ I love to create AI applications.<br>
 📚 Currently learning about AI model development.<br>
