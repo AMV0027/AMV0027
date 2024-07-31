@@ -4,7 +4,7 @@
 📚 Currently learning about AI model development.<br>
 💬 Ask me about MERN & Prompt engineering.<br>
 ⚡ Fun fact: I'm an athlete + coder + entrepreneur.
-
+[![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
 ---
 
 ## 🌐 Socials
@@ -81,6 +81,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
