@@ -1,4 +1,4 @@
-## Arunmozhi Varman [![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
+## Arunmozhi Varman 
 🌏 I’m a Full stack developer.<br>
 🖥️ I love to create AI applications.<br>
 📚 Currently learning about AI model development.<br>
@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arunmozhivarman)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amv__27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunmozhi-varman-2565b3266/)
-
+[![](https://visitcount.itsvg.in/api?id=AMV0027&icon=2&color=4)](https://visitcount.itsvg.in)
 ---
 
 ## 💻 Tech Stack
