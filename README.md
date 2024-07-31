@@ -1,4 +1,4 @@
-## Arunmozhi Varman 
+## Hi👋, im Arunmozhi Varman 
 🌏 I’m a Full stack developer.<br>
 🖥️ I love to create AI applications.<br>
 📚 Currently learning about AI model development.<br>
