@@ -1,5 +1,6 @@
-## Arunmozhi Varman
+![git img](https://github.com/user-attachments/assets/1c963176-145d-4982-b012-5a9ab06f81cd)
 
+## Arunmozhi Varman
 I am a Java Full Stack Developer with expertise in React.js and a strong understanding of prompt engineering. My focus is on developing scalable and efficient applications using modern web technologies.
 
 ---
