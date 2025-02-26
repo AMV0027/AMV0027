@@ -1,7 +1,3 @@
-Here is your upgraded GitHub README with a professional tone:
-
----
-
 ## Arunmozhi Varman
 
 I am a Java Full Stack Developer with expertise in React.js and a strong understanding of prompt engineering. My focus is on developing scalable and efficient applications using modern web technologies.
@@ -51,5 +47,3 @@ I am a Java Full Stack Developer with expertise in React.js and a strong underst
 
 ## Contact & Networking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunmozhi-varman-2565b3266/)  
-
-Let me know if you need any further refinements!
